@@ -38,6 +38,8 @@ This project aims to predict the successful landing of Falcon 9 first stages and
 
 ### 7_Interactive_Dashboard_with_Dash (folder)
 - Folder containing files for building an interactive dashboard with Plotly Dash.
+[View Separate Repo of Dash App](https://github.com/rjacaac211/SpaceX-Falcon-9-Dash-App)
+[View Dash App](https://spacex-falcon-9-dash-app.onrender.com/)
 
 ### 8_Falcon9_First_Stage_Landing_Predict
 - Notebook for predictive analysis and building classification models.
