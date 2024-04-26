@@ -11,14 +11,10 @@ This project aims to predict the successful landing of Falcon 9 first stages and
 - Includes code to make API requests, parse the responses, and save the data into a structured format for further analysis.
 - Extracts information such as launch dates, success outcomes, and payload details.
 
-### _Data_Collection_API.ipynb
+### 2_Data_Collection_Web_Scraped.ipynb
 - Notebook for web scraping launch data from Wikipedia.
 - Demonstrates how to extract launch details from Wikipedia pages, clean the data, and store it in a usable format.
 - Scrapes information such as launch sites, rocket versions, and mission outcomes.
-  
-### 2_Data_Collection_Web_Scraped.ipynb
-- Notebook for cleaning, restructuring, and preparing the dataset for analysis.
-- Covers tasks such as handling missing values, checking data types, and performing data transformations.
 
 ### 3_Data_Wrangling.ipynb
 - Notebook for exploratory data analysis using SQL queries.
