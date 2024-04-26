@@ -51,4 +51,6 @@ This project aims to predict the successful landing of Falcon 9 first stages and
 ### data
 - This folder contains all the data used/created during the project. 
 
+## Summary
+
 This project explores SpaceX's Falcon 9 first stage landing predictions by leveraging data collection techniques, exploratory data analysis, interactive visualizations, and predictive modeling. It provides valuable insights for stakeholders in the space exploration industry, aiding in decision-making processes related to launch planning and operations.
