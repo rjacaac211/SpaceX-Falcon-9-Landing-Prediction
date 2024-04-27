@@ -41,7 +41,7 @@ This project aims to predict the successful landing of Falcon 9 first stages and
 [View Separate Repo of Dash App](https://github.com/rjacaac211/SpaceX-Falcon-9-Dash-App)\
 [View Dash Web App](https://spacex-falcon-9-dash-app.onrender.com/)
 
-### 8_Falcon9_First_Stage_Landing_Predict
+### 8_Falcon9_First_Stage_Landing_Prediction.ipynb
 - Notebook for predictive analysis and building classification models.
 - Covers data preprocessing, model training, evaluation, and selection of the best-performing algorithm for predicting Falcon 9 landing outcomes.
 
