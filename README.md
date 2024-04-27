@@ -45,7 +45,7 @@ This project aims to predict the successful landing of Falcon 9 first stages and
 - Notebook for predictive analysis and building classification models.
 - Covers data preprocessing, model training, evaluation, and selection of the best-performing algorithm for predicting Falcon 9 landing outcomes.
 
-### DS_Capstone_Aca-ac.pdf
+### SpaceX Falcon9 Landing Prediction.pdf
 - PowerPoint presentation providing an overview of the project, methodology, results, and conclusions.
 
 ### data
