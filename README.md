@@ -46,7 +46,10 @@ This project aims to predict the successful landing of Falcon 9 first stages and
 - Covers data preprocessing, model training, evaluation, and selection of the best-performing algorithm for predicting Falcon 9 landing outcomes.
 
 ### SpaceX Falcon9 Landing Prediction.pdf
-- PowerPoint presentation providing an overview of the project, methodology, results, and conclusions.
+- Explores data collection through SpaceX API and Wikipedia web scraping, followed by thorough data wrangling to prepare for analysis.
+- Highlights insights from EDA, including correlations between flight numbers, orbit types, payload mass, and landing success rates, with key findings on the influence of launch site locations.
+- Discusses the development of interactive visualizations using Folium and Plotly Dash, providing dynamic insights into launch success rates, payloads, and booster performance.
+- Presents predictive modeling using a Decision Tree Classifier, achieving 88.9% accuracy in predicting Falcon 9 landing outcomes, offering valuable insights for future launches.
 
 ### data
 - This folder contains all the data used/created during the project. 
